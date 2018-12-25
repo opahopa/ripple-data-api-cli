@@ -29,4 +29,4 @@ if __name__ == '__main__':
         x=x,
         y=y)]
 
-    plotly.offline.plot(data, filename='bitstamp_payment_20000_60d.html', auto_open=True)
+    plotly.offline.plot(data, filename='bitstamp_payment_20000_30d.html', auto_open=True)
